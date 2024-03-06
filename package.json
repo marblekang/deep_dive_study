@@ -1,0 +1,12 @@
+{
+  "name": "deep_dive_study",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/marblekang/deep_dive_study.git",
+  "author": "marblekang <kangbm930@gmail.com>",
+  "license": "MIT",
+  "script": {
+    "start": "node index.js",
+    "prestart": "tsc"
+  }
+}
